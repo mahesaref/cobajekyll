@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 | No | Nama                 | Link                                                                                                                   |
 | -- | -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 1  | Dicka Reynaldi       | [https://github.com/drsiahaan/PreparationClass-Batch-4/](https://github.com/drsiahaan/PreparationClass-Batch-4)        |
+| 1  | Dicka Reynaldi       | [https://drsiahaan.github.io/PreparationClass-Batch-4/](https://drsiahaan.github.io/PreparationClass-Batch-4/)         |
 | 2  | Alan Lanang Ichsan   | [https://alanichsan.github.io/PreparationClass-Batch-4/](https://alanichsan.github.io/PreparationClass-Batch-4/)       |
 | 3  | Chirza Rahman        | [https://chirzarahman.github.io/PreparationClass-Batch4/](https://chirzarahman.github.io/PreparationClass-Batch4/)     |
 | 4  | Azkia Fikril Mustofa | [https://azkiafikrilm.github.io/Preparation-Class--Batch4/](https://azkiafikrilm.github.io/Preparation-Class--Batch4/) |
